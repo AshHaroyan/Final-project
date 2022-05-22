@@ -1,0 +1,143 @@
+.footer{
+  width: 100%;
+  background-color: #2C2C2C;
+
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.logo{
+  margin-top: 58px;
+  background-image: url('../../../assets/images/logo.jpg');
+  height: 43px;
+  width: 70px;
+
+}
+li{
+  list-style-type: none;
+  ont-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  margin-top: 16px;
+
+
+
+}
+ul{
+  margin-top: 58px;
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  align-items: flex-end;
+  color: #FFFFFF;
+
+
+}
+.place{
+  background-image: url("../../../assets/images/Vector.png");
+  height: 16px;
+  width: 11px;
+}
+.country{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  width: 314px;
+  height: 72px;
+  margin-left: 19px;
+
+}
+.numbers{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 58px;
+  color: #FFFFFF;
+
+}
+.tel{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  margin-left: 14px;
+
+}
+.tel_form{
+  background-image: url("../../../assets/images/Vector (1).png");
+  height: 16px;
+  width: 17px;
+}
+.flex1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.email{
+  background-image: url("../../../assets/images/Vector (2).png");
+  height: 12px;
+  width: 16px
+}
+.e-email{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  margin-left: 14px;
+  height: 24px;
+
+}
+
+.flex2{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.left{
+  margin-left: 80px;
+
+}
+.line_end{
+  width: 1500px;
+  opacity: 0.1;
+  border: 1px solid #FFFFFF;
+}
+.digital{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  align-items: center;
+  color: rgba(200, 200, 200, 0.5);
+  padding-bottom: 30px;
+text-align: center;
+
+}

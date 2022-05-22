@@ -1,0 +1,91 @@
+.form{
+  width: 100%;
+  background-color: #ffffff;
+  margin-bottom: 120px;
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 64px;
+  color: #BDBDBD;
+  margin-bottom: 22px;
+
+
+}
+::placeholder{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  color: #8D8D8D;
+  padding-top: 14px;
+
+
+}
+.num{
+  width: 391px;
+  height: 46px;
+}
+
+.num1 {
+  width: 391px;
+  height: 106px;
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  color: #8D8D8D;
+  padding-top: 10px;
+
+}
+.send{
+  margin-left: 40px;
+  width: 331px;
+  height: 34px;
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.03em;
+
+  color: #333333;
+
+}
+.phone-image{
+  background-image: url("../../../assets/images/image 12.png");
+  width: 749px;
+  height: 369px;
+  margin-left: 30px;
+
+}
+.button{
+  width: 222px;
+  height: 71px;
+  background-color: #333333;
+  border: none;
+
+}
+.button_text{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+
+}

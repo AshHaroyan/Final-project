@@ -1,0 +1,47 @@
+.header{
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.menu{
+  margin-top: 45px;
+}
+.logo{
+  margin-top: 30px;
+  background-image: url('../../../assets/images/logo.jpg');
+  height: 43px;
+  width: 70px;
+}
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+.menu2{
+  margin-left: 290px;
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #333333;
+}
+.menu1{
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 60px;
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #333333;
+}
