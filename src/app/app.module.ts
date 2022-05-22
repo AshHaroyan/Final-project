@@ -10,6 +10,8 @@ import { ProjectComponent } from './Components/project/project.component';
 import { ComponyComponent } from './Components/compony/compony.component';
 import { InfoComponent } from './Components/info/info.component';
 import { FormComponent } from './Components/form/form.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 
 
 @NgModule({
@@ -25,8 +27,8 @@ import { FormComponent } from './Components/form/form.component';
     FormComponent
   ],
   imports: [
-    BrowserModule
-
+    BrowserModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

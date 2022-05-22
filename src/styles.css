@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "TT Hoves";
+  src: url("assets/font/TTHoves-DemiBold.eot");
+  src: url("assets/font/TTHoves-DemiBold.eot?#iefix")format("embedded-opentype"),
+  url("assets/font/TTHoves-DemiBold.woff") format("woff"),
+  url("assets/font/TTHoves-DemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
 body{
   margin: 0;
   box-sizing: border-box;
@@ -7,3 +17,5 @@ body{
   width: 1170px;
   margin: auto;
 }
+
+

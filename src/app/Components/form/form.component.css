@@ -34,6 +34,7 @@
 .num{
   width: 391px;
   height: 46px;
+  background: #F3F3F3;
 }
 
 .num1 {
@@ -47,6 +48,7 @@
   letter-spacing: 0.04em;
   color: #8D8D8D;
   padding-top: 10px;
+  background: #F3F3F3;
 
 }
 .send{

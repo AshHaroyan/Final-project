@@ -44,7 +44,8 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  margin-bottom: 120px;
+  margin-bottom: 150px;
+  background-color: #FBFBFB;
 
 }
 .part1{
@@ -52,10 +53,12 @@
   height: 265px;
   width: 270px;
   margin-left: 100px;
+  margin-top: 30px;
 
 }
 .part1_1{
   background-image: url("../../../assets/images/Rectangle 10.png");
+  position: absolute;
   width: 270px;
   height: 140px;
   margin-top: 30px;
@@ -68,6 +71,7 @@
   width: 270px;
   margin-top: 60px;
   margin-left: 30px;
+  margin-bottom: 30px;
 }
 .info{
   font-family: 'TT Hoves';
@@ -187,6 +191,7 @@
   font-size: 64px;
   line-height: 64px;
   color: #FFFFFF;
+  margin-bottom: 14px;
 }
 .img2{
   background-image: url("../../../assets/images/image 15 (1).png");
@@ -235,7 +240,7 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  margin-top: 233px;
+  margin-top: 94px;
 }
 .number1{
   background-image: url("../../../assets/images/01 (1).png");
@@ -270,5 +275,61 @@
     line-height: 12px;
     letter-spacing: 0.2em;
     color: #FFFFFF;
+
+}
+.flex5{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 90px;
+}
+
+.icon1{
+  width: 53px;
+  height: 53px;
+  background: #FFFFFF;
+  border: 1px solid #F2F2F2;
+  position: relative;
+
+}
+.ic_2{
+  width: 53px;
+  height: 53px;
+  background: #FFFFFF;
+  border: 1px solid #F2F2F2;
+  margin-left: 23px;
+
+}
+.read{
+  width: 222px;
+  height: 71px;
+  background: #FFFFFF;
+  margin-left: 30px;
+}
+.read_more{
+  font-family: 'TT Hoves';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #333333;
+  padding-top: 30px;
+  margin-left: 65px;
+
+
+}
+.more{
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-left: 79px;
+
 
 }
