@@ -45,3 +45,10 @@ li {
   text-transform: uppercase;
   color: #333333;
 }
+a:hover {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+a{
+  text-decoration: none;
+}
