@@ -11,8 +11,28 @@ import { ComponyComponent } from './Components/compony/compony.component';
 import { InfoComponent } from './Components/info/info.component';
 import { FormComponent } from './Components/form/form.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import {Routes, RouterModule} from "@angular/router";
+import {ReactiveFormsModule} from "@angular/forms";
 
 
+
+
+const Routing: Routes =[
+  {
+    path: 'nurtown',
+    component: NurtownComponent
+  },
+  {
+    path: 'gallery',
+    component:GalleryComponent
+  },
+  {
+    path: '**',
+    component: NurtownComponent
+  },
+
+
+]
 
 @NgModule({
   declarations: [
@@ -28,7 +48,9 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
   ],
   imports: [
     BrowserModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    RouterModule.forRoot(Routing),
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
