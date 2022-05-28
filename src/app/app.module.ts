@@ -13,7 +13,8 @@ import { FormComponent } from './Components/form/form.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {Routes, RouterModule} from "@angular/router";
 import {ReactiveFormsModule} from "@angular/forms";
-
+import { HttpComponent } from './http/http.component';
+import {HttpClientModule} from "@angular/common/http";
 
 
 
@@ -44,13 +45,15 @@ const Routing: Routes =[
     ProjectComponent,
     ComponyComponent,
     InfoComponent,
-    FormComponent
+    FormComponent,
+    HttpComponent
   ],
   imports: [
     BrowserModule,
     FontAwesomeModule,
     RouterModule.forRoot(Routing),
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

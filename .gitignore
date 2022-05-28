@@ -8,6 +8,8 @@
 
 # Node
 /node_modules
+packaje-lock.json
+/dist
 npm-debug.log
 yarn-error.log
 

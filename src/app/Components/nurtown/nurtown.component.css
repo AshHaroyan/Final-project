@@ -276,6 +276,7 @@
     letter-spacing: 0.2em;
     color: #FFFFFF;
 
+
 }
 .flex5{
   display: flex;
@@ -298,6 +299,7 @@
   background: #F9F9F9;
   border: 1px solid #F2F2F2;
   margin-left: 23px;
+  position: relative;
 
 }
 .read{
@@ -330,6 +332,2462 @@
   text-transform: uppercase;
   color: #FFFFFF;
   margin-left: 79px;
+  display: inline;
+
+
+}
+
+
+
+@media screen and  (max-width:1181px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+  }
+  .title{
+    height: 60px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 54px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 900px;
+    height: 829px;
+    margin-bottom: 120px;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 30px;
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 200px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 100px;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 270px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    color: #000000;
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 68px;
+    height: 111px;
+    margin-top: 62px;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 250px;
+    margin-top: 60px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 145px;
+    margin-top: 62px;
+    margin-left: 57px;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    color: #333333;
+    width: 250px;
+    height: 144px;
+    margin-left: 30px;
+    margin-top: 60px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 370px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 370px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 79px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 370px;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 270px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 370px;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 270px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 150px;
+    height: 71px;
+    background: #333333;
+    margin-left: 448px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+}
+
+
+
+@media screen and  (max-width:1000px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+  }
+  .title{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 600px;
+    height: 829px;
+    margin-bottom: 120px;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 180px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 25px;
+    color: #000000;
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 220px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 240px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 400px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 400px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 50px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 400px;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 270px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 222px;
+    height: 71px;
+    background: #333333;
+    margin-left: 248px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+
+
+
+
+}
+
+
+@media screen and  (max-width:901px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+  }
+  .title{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 600px;
+    height: 829px;
+    margin-bottom: 120px;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 180px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 25px;
+    color: #000000;
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 220px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 240px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 400px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 400px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 50px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 400px;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 270px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 222px;
+    height: 71px;
+    background: #333333;
+    margin-left: 248px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+
+
+
+
+}
+
+
+@media screen and  (max-width:800px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+  }
+  .title{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 300px;
+    height: 829px;
+    margin-bottom: 120px;
+
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 180px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: none;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 50px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 25px;
+    color: #000000;
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 64px;
+    color: #BDBDBD;
+    text-align: center;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+    display: none;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 220px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+    display: none;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 240px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 64px;
+    color: #BDBDBD;
+    text-align: center;
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 400px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 400px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 50px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 400px;
+    display: none;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+    display: none;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 270px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 222px;
+    height: 71px;
+    background: #333333;
+    margin-left: 248px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+}
+
+
+
+
+
+
+@media screen and  (max-width:661px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+  }
+  .title{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 300px;
+    height: 829px;
+    margin-bottom: 120px;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 150px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: none;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 60px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 25px;
+    color: #000000;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+    display: none;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+    display: none;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 200px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 400px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 400px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 50px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 200px;
+    display: none;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+    display: none;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+    display: none;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 220px;
+    display: none;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 222px;
+    height: 71px;
+    background: #333333;
+    margin-left: 248px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+
+
+
+
+}
+
+
+
+
+@media screen and  (max-width:503px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+  }
+  .title{
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 365px;
+
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 300px;
+    height: 829px;
+    margin-bottom: 120px;
+    display: none;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 150px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 180px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+display: none;
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: none;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 60px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 25px;
+    color: #000000;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 120px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+    display: none;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+    display: none;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 200px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 200px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 200px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 5px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 200px;
+    display: none;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+    display: none;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 220px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 94px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+  }
+  .button {
+    width: 122px;
+    height: 71px;
+    background: #333333;
+    margin-left: 100px;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 90px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+
+
+
+
+}
+
+
+@media screen and  (max-width:320px) {
+  .section_1{
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 49px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+  }
+  .title{
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 1px;
+    margin-top: 35px;
+
+
+  }
+  .title_1{
+    height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 1px;
+
+
+
+  }
+  .title_img{
+    background-image: url('../../../assets/images/Rectangle 6.png');
+    width: 300px;
+    height: 829px;
+    margin-bottom: 20px;
+    display: none;
+  }
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+    background-color: #FBFBFB;
+
+  }
+  .part1{
+    background-image: url("../../../assets/images/Rectangle 8.png");
+    height: 265px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: none;
+
+
+  }
+  .part1_1{
+    background-image: url("../../../assets/images/Rectangle 10.png");
+    position: absolute;
+    width: 150px;
+    height: 140px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: none;
+
+  }
+  .part2{
+    background-image: url("../../../assets/images/Rectangle 9.png");
+    height: 345px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: none;
+  }
+  .info{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+    margin-left: 40px;
+    margin-top: 30px;
+
+  }
+  .text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 25px;
+    color: #000000;
+    width: 150px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+  .title2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+  }
+  .flex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+  }
+  .flex2_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+
+  }
+
+  .one{
+    background-image: url("../../../assets/images/1 (1).png");
+    width: 75px;
+    height: 131px;
+    margin-top: 62px;
+    display: none;
+
+  }
+  .one_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    height: 144px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+  }
+  .two{
+    background-image: url("../../../assets/images/2.png");
+    width: 110px;
+    height: 131px;
+    margin-top: 42px;
+    margin-left: 80px;
+    display: none;
+
+  }
+  .two_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    color: #333333;
+    width: 200px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+  }
+  .title3{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+
+
+  }
+  .img1{
+    background-image: url("../../../assets/images/Rectangle 12.png");
+    width: 200px;
+    height: 255px;
+  }
+  .gray{
+    background-image: url("../../../assets/images/Rectangle 17 (2).png");
+    width: 200px;
+    height: 255px;
+  }
+  .center{
+    margin-top: 0;
+    padding-top: 48px;
+    margin-left: 20px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .img2{
+    background-image: url("../../../assets/images/image 15 (1).png");
+    height: 255px;
+    width: 200px;
+    display: none;
+  }
+  .house1{
+    background-image: url("../../../assets/images/image 16.png");
+    height: 255px;
+    width: 250px;
+  }
+
+  .house2 {
+    background-image: url("../../../assets/images/image 17.png");
+    height: 255px;
+    width: 300px;
+    display: none;
+
+  }
+
+  .house3 {
+    background-image: url("../../../assets/images/image 18.png");
+    height: 255px;
+    width: 220px;
+
+  }
+  .white{
+    width: 222px;
+    height: 71px;
+    background-color: #ffffff;
+    margin-top: 758px;
+  }
+  .text_absolut{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+
+  }
+  .flex4{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 24px;
+  }
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+    display: none;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+    display: none;
+  }
+  .number2{
+    background-image: url("../../../assets/images/02.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+    display: none;
+  }
+  .button {
+    width: 102px;
+    height: 71px;
+    background: #333333;
+    margin-left: 248px;
+    display: none;
+  }
+  .project{
+    margin-left:  39px;
+    padding-top: 30px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+
+  }
+  .flex5{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 20px;
+  }
+
+  .icon1{
+    width: 53px;
+    height: 53px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    position: relative;
+    display: none;
+
+  }
+  .ic_2{
+    width: 53px;
+    height: 53px;
+    background: #F9F9F9;
+    border: 1px solid #F2F2F2;
+    margin-left: 23px;
+    display: none;
+
+  }
+  .read{
+    width: 222px;
+    height: 71px;
+    background: #FFFFFF;
+    margin-left: 30px;
+  }
+  .read_more{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 65px;
+
+
+  }
+  .more{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 79px;
+
+
+  }
+
+
+
 
 
 }

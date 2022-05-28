@@ -73,7 +73,7 @@
 
 }
 
-.button_text{
+.button_text {
   font-family: 'TT Hoves';
   font-style: normal;
   font-weight: 400;
@@ -82,6 +82,491 @@
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #FFFFFF;
+  padding:  20px 47px;
+}
+
+.button{
+
+  background: #333333;
+}
+
+
+
+
+
+
+
+
+
+@media screen and  (max-width:901px) {
+  .form{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 120px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .title{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 22px;
+
+
+  }
+  ::placeholder{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 14px;
+
+
+  }
+  .num{
+    width: 300px;
+    height: 46px;
+    background: #F3F3F3;
+  }
+
+  .num1 {
+    width: 300px;
+    height: 106px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 10px;
+    background: #F3F3F3;
+
+  }
+  .send{
+    margin-left: 90px;
+    width: 270px;
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+
+    color: #333333;
+
+  }
+  .phone-image{
+    background-image: url("../../../assets/images/image 12.png");
+    width: 449px;
+    height: 369px;
+    margin-left: 30px;
+
+  }
+
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+
+  }
+
 
 
 }
+
+
+
+
+
+
+@media screen and  (max-width:800px) {
+  .form{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 120px;
+  }
+  .flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+  }
+  .title{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 22px;
+    text-align: center;
+
+
+  }
+  ::placeholder{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 14px;
+
+
+  }
+  .num{
+    width: 300px;
+    height: 46px;
+    background: #F3F3F3;
+    text-align: center;
+  }
+
+  .num1 {
+    width: 300px;
+    height: 106px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 10px;
+    background: #F3F3F3;
+    text-align: center;
+
+  }
+  .send{
+    margin-left: 100px;
+    width: 200px;
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: #333333;
+
+
+  }
+  .phone-image{
+    background-image: url("../../../assets/images/image 12.png");
+    width: 200px;
+    height: 269px;
+    margin-left: 20px;
+    display: none;
+
+  }
+
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 20px 30px;
+
+
+  }
+
+
+
+}
+
+
+
+
+@media screen and  (max-width:661px) {
+  .form {
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 120px;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+  }
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    padding:  20px 30px;
+
+  }
+
+
+}
+
+
+@media screen and  (max-width:661px) {
+  .form {
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 120px;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+  }
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    padding:  20px 30px;
+
+  }
+
+
+}
+
+@media screen and  (max-width:503px) {
+  .form{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 120px;
+
+  }
+  .flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  .title{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 22px;
+    text-align: center;
+
+
+  }
+  ::placeholder{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 14px;
+
+
+  }
+  .num{
+    width: 150px;
+    height: 46px;
+    background: #F3F3F3;
+  }
+
+  .num1 {
+    width: 150px;
+    height: 106px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 10px;
+    background: #F3F3F3;
+
+  }
+  .send{
+    margin-left: 50px;
+    width: 220px;
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #333333;
+
+
+  }
+  .phone-image{
+    background-image: url("../../../assets/images/image 12.png");
+    width: 200px;
+    height: 269px;
+    margin-left: 20px;
+    display: none;
+
+  }
+
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    padding:  20px 30px;
+
+  }
+
+
+
+}
+
+
+@media screen and  (max-width:320px) {
+  .form{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 50px;
+
+  }
+  .flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  .title{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 22px;
+    text-align: center;
+
+
+  }
+  ::placeholder{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 14px;
+
+
+  }
+  .num{
+    width: 140px;
+    height: 46px;
+    background: #F3F3F3;
+  }
+
+  .num1 {
+    width: 140px;
+    height: 80px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    color: #8D8D8D;
+    padding-top: 10px;
+    background: #F3F3F3;
+
+  }
+  .send{
+    margin-left: 50px;
+    width: 100px;
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #333333;
+
+
+  }
+  .phone-image{
+    background-image: url("../../../assets/images/image 12.png");
+    width: 200px;
+    height: 269px;
+    margin-left: 20px;
+    display: none;
+
+  }
+
+  .button_text{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding:  20px 30px;
+
+  }
+
+  .send {
+    margin-left: 20px;
+    width: 200px;
+    height: 34px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #333333;
+
+  }
+
+
+  }

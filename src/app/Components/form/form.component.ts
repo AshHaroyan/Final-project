@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {FormBuilder, Validators} from "@angular/forms";
+import {FormBuilder,  Validators} from "@angular/forms";
 
 
 @Component({
@@ -13,18 +13,18 @@ export class FormComponent implements OnInit {
 
 
   form = this.fb.group({
-    name:['', Validators.required],
-    number:['', Validators.required],
+    name:['', [Validators.required], Validators.maxLength(10)],
+    number:['', [Validators.required, Validators.maxLength(10)]],
     email:['', [Validators.required,Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
     text:['', Validators.required],
     text1:['', Validators.required],
 
-
-
   })
-  save(){
-    console.log(this.form.value);
+  onSubmit(){
+console.log(this.form.value)
   }
+
+
 
   constructor(public fb: FormBuilder) {}
 

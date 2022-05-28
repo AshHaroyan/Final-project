@@ -5,16 +5,37 @@
     <div class="flex">
       <a href="#"> <div  class="logo"> </div> </a>
       <div class="menu">
-        <ul>
-          <li class="menu2" >         <a href=" http://localhost:4200/">          Главная</a> </li>
-          <li class="menu1"> <a href="http://localhost:4200/gallery">  Галерея </a></li>
-          <li class="menu1"> Проекты</li>
-          <li class="menu1"> Сертификаты</li>
-          <li class="menu1"> Контакты</li>
+        <ul class="menu2">
+              <li *ngFor="let item of data" class="menu1">
+                <a  routerLink="{{item.URL}}" [routerLinkActive]="['class1']"> {{item.name}}</a>
+              </li>
+
         </ul>
 
+
       </div>
-    </div>
+      <div class="a_display" id="list-menu">
+        <div style="width: 50px; color: grey">
+          <div style="border:2px solid black; margin-bottom: 2px;"></div>
+          <div style="border:2px solid black; margin-bottom: 2px;"></div>
+          <div style="border:2px solid black"></div>
+        </div>
+        <div class="menu-list">
+          <ul>
+            <li> <a class="a_group_1" routerLink="/nurtown">ГЛАВНАЯ</a></li>
+            <li> <a class="a_group_1" routerLink="/gallery">ГАЛЕРЕЯ</a></li>
+            <li>  <a class="a_group_1" routerLink="/project">ПРОЕКТЫ</a></li>
+            <li> <a class="a_group_1" routerLink="/compony">СЕРТИФИКАТЫ</a></li>
+            <li> <a class="a_group_1" routerLink="/info">КОТНАКТЫ</a></li>
+          </ul>
+
+
+
+
+
+        </div>
+
+      </div>
 
   </div>
 
@@ -22,6 +43,7 @@
 
 
 </div>
+
 
 
 

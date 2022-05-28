@@ -167,10 +167,10 @@
   transition: .5s ease;
   opacity:0;
   font-size: 20px;
-  height: 80px;
+  height: 100px;
   text-align: center;
-  padding-top: 50px;
-  margin-top: 124px;
+  padding-top: 30px;
+  margin-top: 160px;
 }
 
 :hover.overlay {
@@ -179,3 +179,73 @@
 
 
 
+
+@media screen and  (max-width:550px) {
+
+  .title {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+  }
+  .title1{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 0;
+
+  }
+
+}
+
+
+
+@media screen and  (max-width:320px) {
+
+  .title {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 64px;
+    color: #BDBDBD;
+    margin-bottom: 0;
+  }
+  .title1{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 64px;
+    color: #333333;
+    margin-top: 0;
+
+  }
+
+  .number1{
+    background-image: url("../../../assets/images/01 (1).png");
+    width: 21px;
+    height: 19px;
+    display: none;
+  }
+  .line{
+    background-image: url("../../../assets/images/Line 3.png");
+    height: 33px;
+    width: 34px;
+    margin-left: 26px;
+    display: none;
+  }
+  .number2{
+    background-image: url("../../../assets/images/05.png");
+    height: 19px;
+    width: 27px;
+    margin-left: 31px;
+    display: none;
+  }
+}

@@ -13,9 +13,9 @@
 
 .logo{
   margin-top: 58px;
-  background-image: url('../../../assets/images/logo.jpg');
-  height: 43px;
-  width: 70px;
+  background-image: url('../../../assets/images/foot.png');
+  height: 94px;
+  width: 145px;
 
 }
 li{
@@ -128,7 +128,7 @@ ul{
 
 }
 .line_end{
-  width: 1500px;
+  width: 100%;
   opacity: 0.1;
   border: 1px solid #FFFFFF;
 }
@@ -142,5 +142,521 @@ ul{
   color: rgba(200, 200, 200, 0.5);
   padding-bottom: 30px;
 text-align: center;
+
+}
+
+.media{
+  margin-left: 41px;
+}
+
+
+
+@media screen and  (max-width:1180px) {
+
+
+  .footer {
+    width: 100%;
+    background-color: #2C2C2C;
+
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+
+  .logo {
+    margin-top: 58px;
+    background-image: url('../../../assets/images/foot.png');
+    height: 94px;
+    width: 145px;
+    margin-left: 20px;
+
+  }
+
+  li {
+    list-style-type: none;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-top: 16px;
+
+
+  }
+
+  ul {
+    margin-top: 58px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: flex-start;
+    color: #FFFFFF;
+
+
+  }
+
+  .place {
+    background-image: url("../../../assets/images/Vector.png");
+    height: 16px;
+    width: 11px;
+  }
+
+  .country {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    width: 214px;
+    height: 72px;
+    margin-left: 19px;
+
+  }
+
+  .numbers {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 58px;
+    color: #FFFFFF;
+
+  }
+
+  .tel {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 14px;
+
+  }
+
+  .tel_form {
+    background-image: url("../../../assets/images/Vector (1).png");
+    height: 16px;
+    width: 17px;
+  }
+
+  .flex1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 37px;
+    margin-left: 30px;
+  }
+
+  .email {
+    background-image: url("../../../assets/images/Vector (2).png");
+    height: 12px;
+    width: 16px;
+    margin-top: 6px;
+  }
+
+  .e-email {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 14px;
+    height: 24px;
+
+
+  }
+
+  .flex2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  .left {
+    margin-left: 20px;
+
+  }
+
+  .line_end {
+    width: 100%;
+    opacity: 0.1;
+    border: 1px solid #FFFFFF;
+  }
+
+  .digital {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    align-items: center;
+    color: rgba(200, 200, 200, 0.5);
+    padding-bottom: 30px;
+    text-align: center;
+
+  }
+  .media{
+    margin-left: 20px;
+  }
+}
+
+
+
+@media screen and  (max-width:901px) {
+
+
+  .footer {
+    width: 100%;
+    background-color: #2C2C2C;
+
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+  }
+
+  .logo {
+    margin-top: 58px;
+    background-image: url('../../../assets/images/foot.png');
+    height: 94px;
+    width: 145px;
+
+  }
+
+  li {
+    list-style-type: none;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-top: 16px;
+    display: none;
+
+  }
+
+  ul {
+    margin-top: 58px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: flex-start;
+    color: #FFFFFF;
+    display: none;
+
+
+  }
+
+  .place {
+    background-image: url("../../../assets/images/Vector.png");
+    height: 16px;
+    width: 11px;
+  }
+
+  .country {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    width: 214px;
+    height: 72px;
+    margin-left: 30px;
+
+  }
+
+  .numbers {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 58px;
+    color: #FFFFFF;
+
+  }
+
+  .tel {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 14px;
+
+  }
+
+  .tel_form {
+    background-image: url("../../../assets/images/Vector (1).png");
+    height: 16px;
+    width: 17px;
+  }
+
+  .flex1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 37px;
+    margin-left: 20px;
+  }
+
+  .email {
+    background-image: url("../../../assets/images/Vector (2).png");
+    height: 12px;
+    width: 16px;
+    margin-top: 6px;
+  }
+
+  .e-email {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 14px;
+    height: 24px;
+
+
+  }
+
+  .flex2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+  }
+
+  .left {
+    margin-left: 10px;
+
+  }
+
+  .line_end {
+    width: 100%;
+    opacity: 0.1;
+    border: 1px solid #FFFFFF;
+  }
+
+  .digital {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    align-items: center;
+    color: rgba(200, 200, 200, 0.5);
+    padding-bottom: 30px;
+    text-align: center;
+
+  }
+  .media{
+    margin-left: 25px;
+  }
+
+}
+
+
+
+@media screen and  (max-width:661px) {
+
+
+  .footer {
+    width: 100%;
+    background-color: #2C2C2C;
+
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+
+  }
+
+  .logo {
+    margin-top: 58px;
+    background-image: url('../../../assets/images/foot.png');
+    height: 94px;
+    width: 145px;
+    display: none;
+
+  }
+
+  li {
+    list-style-type: none;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-top: 16px;
+    display: none;
+
+  }
+
+  ul {
+    margin-top: 58px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: flex-start;
+    color: #FFFFFF;
+   display: none;
+
+  }
+
+  .place {
+    background-image: url("../../../assets/images/Vector.png");
+    height: 16px;
+    width: 11px;
+  }
+
+  .country {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    width: 214px;
+    height: 72px;
+    margin-left: 30px;
+
+  }
+
+  .numbers {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 58px;
+    color: #FFFFFF;
+
+  }
+
+  .tel {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 14px;
+
+  }
+
+  .tel_form {
+    background-image: url("../../../assets/images/Vector (1).png");
+    height: 16px;
+    width: 17px;
+    display: none;
+  }
+
+  .flex1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 37px;
+    margin-left: 40px;
+  }
+
+  .email {
+    background-image: url("../../../assets/images/Vector (2).png");
+    height: 12px;
+    width: 16px;
+    margin-top: 6px;
+    display: none;
+  }
+
+  .e-email {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 5px;
+    height: 24px;
+
+
+  }
+
+  .flex2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+  }
+
+  .left {
+    margin-left: 10px;
+    display: none;
+
+  }
+
+  .line_end {
+    width: 100%;
+    opacity: 0.1;
+    border: 1px solid #FFFFFF;
+  }
+
+  .digital {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    align-items: center;
+    color: rgba(200, 200, 200, 0.5);
+    padding-bottom: 30px;
+    text-align: center;
+
+  }
+  .media{
+    margin-left: 25px;
+  }
 
 }
